@@ -131,9 +131,9 @@ function sprawdz(nr)
 	
 	//wygrana
 	if (haslo == haslo1)
-	document.getElementById("alfabet").innerHTML  = "Łiiii! Sto lat sto lat <br />Niech żyje Mario naaaam!:)*<br /><br /><img src='img/juhu.JPG' alt='juhu' height='300'>";
+	document.getElementById("alfabet").innerHTML  = "Łiiii! Sto lat sto lat <br />Niech żyje Mario naaaam!:)*<br /><br /><img src='img/juhu.jpg' alt='juhu' height='300'>";
 	
 	//przegrana
 	if (ile_skuch>=6)
-	document.getElementById("alfabet").innerHTML  = "Prawiedobrze! Nie smutaj :) <br /><span class='reset' onclick='location.reload()''>JESZCZE RAZ?</span><br /><br /><img src='img/sad.gif' alt='facepalm' height='250'/>";
+	document.getElementById("alfabet").innerHTML  = "Prawiedobrze! Nie smutaj :) <br /><span class='reset' onclick='location.reload()''>JESZCZE RAZ?</span><br /><br /><img src='img/facepalm.jpg' alt='facepalm' height='250'/>";
 }
