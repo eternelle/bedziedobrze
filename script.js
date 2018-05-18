@@ -1,4 +1,4 @@
-var haslo = "Wygadanych gitar i mruczących efektów Rozbujanego hamaku pomiędzy szumiącymi drzewami Doskonale oldschoolowego autka Najwspanialszych górskich wędrówek Miękkiego kocyka na zielonej łące z zimnym piwkiem";
+var haslo = "Wygadanych gitar i mruczących efektów Rozbujanego hamaka pomiędzy szumiącymi drzewami Doskonale oldschoolowego autka Najwspanialszych górskich wędrówek Miękkiego kocyka na zielonej łące z zimnym piwkiem";
 haslo = haslo.toUpperCase();
 
 var dlugosc = haslo.length;
